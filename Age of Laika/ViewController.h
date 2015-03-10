@@ -9,7 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UILabel *yearsLabel;
 
+@property (weak, nonatomic) IBOutlet UITextField *yearsTextField;
+
+- (IBAction)convertToDogYearsButtonPressed:(UIButton *)sender;
 
 @end
 

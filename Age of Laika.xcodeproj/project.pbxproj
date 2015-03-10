@@ -14,6 +14,7 @@
 		96672A281AAFA602006878AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96672A271AAFA602006878AE /* Images.xcassets */; };
 		96672A2B1AAFA602006878AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96672A291AAFA602006878AE /* LaunchScreen.xib */; };
 		96672A371AAFA602006878AE /* Age_of_LaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96672A361AAFA602006878AE /* Age_of_LaikaTests.m */; };
+		96672A411AAFA648006878AE /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96672A401AAFA648006878AE /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		96672A301AAFA602006878AE /* Age of LaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age of LaikaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96672A351AAFA602006878AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96672A361AAFA602006878AE /* Age_of_LaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Age_of_LaikaTests.m; sourceTree = "<group>"; };
+		96672A401AAFA648006878AE /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		96672A1A1AAFA602006878AE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96672A401AAFA648006878AE /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg */,
 				96672A1B1AAFA602006878AE /* Info.plist */,
 				96672A1C1AAFA602006878AE /* main.m */,
 			);
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96672A411AAFA648006878AE /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg in Resources */,
 				96672A261AAFA602006878AE /* Main.storyboard in Resources */,
 				96672A2B1AAFA602006878AE /* LaunchScreen.xib in Resources */,
 				96672A281AAFA602006878AE /* Images.xcassets in Resources */,
